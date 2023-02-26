@@ -47,7 +47,7 @@ Arduino IDE 2.0.3 を使用しています。1.0 系はコンパイルが重く�
 
 ## 3.1. ST7735S 80x160
 
-<img src="./img/wiring-diagram.jpg" width="240">
+<img src="./img/wiring-diagram.jpg" width="480">
 
 | TFT       | ESP32  |     | BTN  | ESP32 |
 | --------- | ------ | --- | ---- | ----- |
