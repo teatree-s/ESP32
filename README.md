@@ -5,7 +5,7 @@
 # 1. プロジェクトについて
 
 ESP32 を対象としたプロジェクトです。  
-ここでは、実際に ESP32 の開発ボードで作成したプログラムを展開します。
+ここでは、ESP32 の開発ボードで作成したプログラムを展開します。
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -16,7 +16,7 @@ ESP32 を対象としたプロジェクトです。
 ESP32 を使ったプログラムを置いています。各プロジェクトにて詳細確認ください。
 
 - ESP-WROOM-32D
-  - XXX : XXX
+  - M5Stack_Avatar : オープン仕様スタックチャンの M5Stack_Avatar を使ったプロジェクト
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
