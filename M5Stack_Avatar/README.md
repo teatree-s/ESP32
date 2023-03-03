@@ -10,7 +10,8 @@ basics は、全てがオープン仕様であるコミュニケーションロ�
 
 これをベースに会話をさせたり、スピーカーをつけて音声を発したり、ボタンに機能を割り当てることが可能です。
 
-<img src="./img/IMG_3745.JPEG" width="480">
+<img src="./img/IMG_3745.JPEG" width="360">
+<img src="./img/IMG_3766.JPEG" width="360">
 
 スタックチャンについて詳しく知りたい方は是非以下へアクセスください。  
 このような面白い作品をオーブンにして頂きありがとうございます。
@@ -47,15 +48,15 @@ Arduino IDE 2.0.3 を使用しています。1.0 系はコンパイルが重く�
 
 ## 3.1. ST7735S 80x160
 
-<img src="./img/wiring-diagram.jpg" width="480">
+<img src="./img/wiring-diagram.jpg" width="360">
 
 | TFT       | ESP32  |     | BTN  | ESP32 |
 | --------- | ------ | --- | ---- | ----- |
 | GND       | GND    |     | GND  | GND   |
-| VCC       | 5V     |     | VCC  | 5V    |
-| SCL       | GPI13  |     | BtnA | GPI25 |
-| SDA(MOSI) | GPIO15 |     | BtnB | GPI26 |
-| RES       | GPIO18 |     | BtnC | GPI27 |
+| VCC       | 5V     |     | BtnA | GPI25 |
+| SCL       | GPI13  |     | BtnB | GPI26 |
+| SDA(MOSI) | GPIO15 |     | BtnC | GPI27 |
+| RES       | GPIO18 |     |      |       |
 | DC        | GPIO23 |     |      |       |
 | CS        | GPIO5  |     |      |       |
 | BUK       | 3.3V   |     |      |       |
@@ -72,6 +73,21 @@ Arduino IDE 2.0.3 を使用しています。1.0 系はコンパイルが重く�
 | CS     | GPIO5  |
 | GND    | GND    |
 | VCC    | 5V     |
+
+## 3.1. ST7735 126x160
+
+<img src="./img/wiring-diagram3.jpg" width="360">
+
+| TFT    | ESP32  |     | BTN  | ESP32 |
+| ------ | ------ | --- | ---- | ----- |
+| LED    | 3.3V   |     | GND  | GND   |
+| SCK    | GPI13  |     | BtnA | GPI25 |
+| SDA    | GPIO15 |     | BtnB | GPI26 |
+| A0(DC) | GPIO23 |     | BtnC | GPI27 |
+| RESET  | GPIO18 |     |      |       |
+| CS     | GPIO5  |     |      |       |
+| GND    | GND    |     |      |       |
+| VCC    | 5V     |     |      |       |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
