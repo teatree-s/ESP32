@@ -35,7 +35,7 @@ Arduino IDE 2.0.3 を使用しています。1.0 系はコンパイルが重く�
 ライブラリは動作確認ができているバージョンです。
 
 - ボードマネージャの追加
-  - [ファイル>基本設定>追加のボードマネージャ]：[Arduino-ESP32 の json](https://img.espressif.com/projects/arduino-esp32/en/latest/installing.html) を追加
+  - [ファイル>基本設定>追加のボードマネージャ]：[Arduino-ESP32 の json](https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html) から追加
   - [ツール>ボード>ボードマネージャ]：「esp32 by Espressif Systems」をインストール
 - ボードマネージャの選択
   - [ツール>ボード]：「ESP32 Arduino」の「ESP32 Dev Module」を選択
