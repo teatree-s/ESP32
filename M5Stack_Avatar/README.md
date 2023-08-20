@@ -74,7 +74,7 @@ Arduino IDE 2.0.3 を使用しています。1.0 系はコンパイルが重く�
 | GND    | GND    |
 | VCC    | 5V     |
 
-## 3.1. ST7735 126x160
+## 3.1. ST7735 128x160
 
 <img src="./img/wiring-diagram2.jpg" width="360">
 
