@@ -17,6 +17,7 @@ ESP32 を使ったプログラムを置いています。各プロジェクト�
 
 - ESP-WROOM-32D
   - M5Stack_Avatar : オープン仕様スタックチャンの M5Stack_Avatar を使ったプロジェクト
+  - BLE_Wiimote : Wii リモコンで画面に表示している画像を変更できるプロジェクト
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
