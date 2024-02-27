@@ -20,6 +20,7 @@ ESP32 を使ったプログラムを置いています。各プロジェクト�
   - M5Stack_Avatar : オープン仕様スタックチャンの M5Stack_Avatar を使ったプロジェクト
 - NodeMCU-ESP32S
   - BLE_DrawImage : BLE リモコンで画面に表示している画像を変更できるプロジェクト
+  - PixelDust : 加速度センサー MPU6050 モジュールを使ったプロジェクト
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
